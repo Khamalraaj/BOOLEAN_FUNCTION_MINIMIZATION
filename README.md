@@ -47,6 +47,7 @@ Developed by:Khamalraaj S
 RegisterNumber:24901015
 
 **Truth table**
+
 ![Screenshot 2024-12-28 232952](https://github.com/user-attachments/assets/1319edf4-4305-4446-bf07-d2030f76e0f0)
 
 **Boolean minimization**
